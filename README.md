@@ -1,8 +1,4 @@
-### README File
 
-#### English Version
-
-```markdown
 # Network Impact Assessment and Stability Enhancement through Markov Chain Analysis and Load Balancing
 
 ## Overview
@@ -64,11 +60,9 @@ mpiexec -np <number_of_processes> python AdjustedTransition_MPI_v2.py
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more information.
-```
 
-#### 日本語版
+---
 
-```markdown
 # マルコフ連鎖解析と負荷分散を用いたネットワーク影響度評価と安定性向上
 
 ## 概要
@@ -130,4 +124,3 @@ mpiexec -np <プロセス数> python AdjustedTransition_MPI_v2.py
 
 ### ライセンス
 このプロジェクトはMITライセンスの下で公開されています。詳細についてはLICENSEファイルをご覧ください。
-```
